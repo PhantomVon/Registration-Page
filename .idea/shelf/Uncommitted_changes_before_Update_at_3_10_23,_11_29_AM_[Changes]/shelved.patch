@@ -1,0 +1,87 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"fe9495aa-abc1-403e-a950-4e1cd4b01ad1\" name=\"Changes\" comment=\"\">\n      <change afterPath=\"$PROJECT_DIR$/.env\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/midMorningRegistration/migrations/0001_initial.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/midMorningRegistration/migrations/0002_supplier.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/midMorningRegistration/migrations/__init__.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/midMorningRegistration/models.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/templates/add-product.html\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/templates/add-supplier.html\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/templates/home.html\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/templates/login.html\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/templates/logout.html\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/templates/payment.html\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/templates/products.html\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/templates/suppliers.html\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/templates/update-product.html\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/templates/update-supplier.html\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/db.sqlite3\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/db.sqlite3\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/midMorningRegistration/settings.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/midMorningRegistration/settings.py\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/midMorningRegistration/urls.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/midMorningRegistration/urls.py\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/midMorningRegistration/views.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/midMorningRegistration/views.py\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/templates/base.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/templates/base.html\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/templates/register.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/templates/register.html\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"DjangoConsoleOptions\" custom-start-script=\"import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)\">\n    <option name=\"myCustomStartScript\" value=\"import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Python Script\" />\n        <option value=\"HTML File\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2MPB3tsktSsYYQa7yL6nh0TalN7\" />\n  <component name=\"ProjectLevelVcsManager\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,\n    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\n    &quot;last_opened_file_path&quot;: &quot;/home/emobilis/Desktop/midMorningRegistration&quot;,\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\n  }\n}</component>\n  <component name=\"RecentsManager\">\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/static\" />\n    </key>\n  </component>\n  <component name=\"RunManager\" selected=\"Python.main\">\n    <configuration name=\"main\" type=\"PythonConfigurationType\" factoryName=\"Python\" nameIsGenerated=\"true\">\n      <module name=\"midMorningRegistration\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/main.py\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"midMorningRegistration\" type=\"Python.DjangoServer\" factoryName=\"Django server\">\n      <module name=\"midMorningRegistration\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"\" />\n      <option name=\"IS_MODULE_SDK\" value=\"false\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <option name=\"launchJavascriptDebuger\" value=\"false\" />\n      <option name=\"port\" value=\"8000\" />\n      <option name=\"host\" value=\"\" />\n      <option name=\"additionalOptions\" value=\"\" />\n      <option name=\"browserUrl\" value=\"\" />\n      <option name=\"runTestServer\" value=\"false\" />\n      <option name=\"runNoReload\" value=\"false\" />\n      <option name=\"useCustomRunCommand\" value=\"false\" />\n      <option name=\"customRunCommand\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"fe9495aa-abc1-403e-a950-4e1cd4b01ad1\" name=\"Changes\" comment=\"\" />\n      <created>1677659141006</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1677659141006</updated>\n      <workItem from=\"1677659160513\" duration=\"5920000\" />\n      <workItem from=\"1677670118469\" duration=\"30000\" />\n      <workItem from=\"1677675415417\" duration=\"7000\" />\n      <workItem from=\"1677830614837\" duration=\"9759000\" />\n      <workItem from=\"1677843679044\" duration=\"10000\" />\n      <workItem from=\"1678090664362\" duration=\"5707000\" />\n      <workItem from=\"1678176289322\" duration=\"8163000\" />\n      <workItem from=\"1678188770092\" duration=\"81000\" />\n      <workItem from=\"1678263070473\" duration=\"6247000\" />\n      <workItem from=\"1678349316760\" duration=\"5210000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\n  </component>\n  <component name=\"XDebuggerManager\">\n    <breakpoint-manager>\n      <breakpoints>\n        <line-breakpoint enabled=\"true\" suspend=\"THREAD\" type=\"python-line\">\n          <url>file://$PROJECT_DIR$/main.py</url>\n          <line>8</line>\n          <option name=\"timeStamp\" value=\"1\" />\n        </line-breakpoint>\n      </breakpoints>\n    </breakpoint-manager>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision fa87bcd0d93b2b65e56d0657ff8ad9b0bff6740c)
++++ b/.idea/workspace.xml	(date 1678436980874)
+@@ -4,30 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="fe9495aa-abc1-403e-a950-4e1cd4b01ad1" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/midMorningRegistration/migrations/0001_initial.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/midMorningRegistration/migrations/0002_supplier.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/midMorningRegistration/migrations/__init__.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/midMorningRegistration/models.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/templates/add-product.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/templates/add-supplier.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/templates/logout.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/templates/payment.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/templates/products.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/templates/suppliers.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/templates/update-product.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/templates/update-supplier.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/midMorningRegistration/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/midMorningRegistration/settings.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/midMorningRegistration/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/midMorningRegistration/urls.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/midMorningRegistration/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/midMorningRegistration/views.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/register.html" afterDir="false" />
+-    </list>
++    <list default="true" id="fe9495aa-abc1-403e-a950-4e1cd4b01ad1" name="Changes" comment="first commit" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -46,6 +23,7 @@
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="UPDATE_TYPE" value="REBASE" />
+   </component>
+   <component name="MarkdownSettingsMigration">
+     <option name="stateVersion" value="1" />
+@@ -143,14 +121,36 @@
+       <workItem from="1678188770092" duration="81000" />
+       <workItem from="1678263070473" duration="6247000" />
+       <workItem from="1678349316760" duration="5210000" />
++      <workItem from="1678436333967" duration="635000" />
++    </task>
++    <task id="LOCAL-00001" summary="first commit">
++      <created>1678436595055</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1678436595055</updated>
+     </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
+   </component>
+   <component name="VcsManagerConfiguration">
+     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
++    <MESSAGE value="first commit" />
++    <option name="LAST_COMMIT_MESSAGE" value="" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>
