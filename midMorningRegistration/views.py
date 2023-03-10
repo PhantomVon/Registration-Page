@@ -181,4 +181,3 @@ def payment(request, id):
                                   transaction_desc, stk_callback_url)
         return JsonResponse(transaction.response_description, safe=False)
     return render(request, 'payment.html', {'product': product})
-
